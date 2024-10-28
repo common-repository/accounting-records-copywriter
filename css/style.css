@@ -1,0 +1,44 @@
+.thickbox_acreco{
+    visibility: visible!important;
+    cursor: pointer;
+    vertical-align: middle!important;
+}
+span.avk_arc{
+    vertical-align: middle!important;
+}
+.modal_window{
+    display: none;
+}
+.dashicons-copy-avk{
+    position: relative;
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+}
+.dashicons-copy-avk:before{
+    content: '\f327';
+}
+.column-characters{
+    width: 100px;
+    text-align: center!important;
+}
+.fieldset_profile{
+    border: 2px solid grey;
+}
+.class-cop-title{
+    font-size: 16px!important;
+    color: #e14d43!important;
+}
+.accounting-records-copywriter-attachment-records{
+    width: 15em;
+}
+#payment-order, #payment-order:active{
+    outline: none!important;
+}
+.arc-order-payment{
+    width: 100%;
+}
+.arc-order-payment td:first-child{
+    width: 65%;
+}

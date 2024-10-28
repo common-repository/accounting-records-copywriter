@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-09-14 23:33+0300\n"
+"PO-Revision-Date: 2015-09-14 23:34+0300\n"
+"Last-Translator: Smiling_Hemp <support@avkproject.ru>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: accounting-records-copywriter.class.php:98 classes/internals.class.php:43
+msgid "Количество символов"
+msgstr "Number of characters"
+
+#: accounting-records-copywriter.class.php:115
+msgid "Выплата копирайтеру"
+msgstr "Payment of copywriter"
+
+#: accounting-records-copywriter.class.php:118
+msgid "Заказал выплату"
+msgstr "Filed for payment"
+
+#: accounting-records-copywriter.class.php:134
+msgid "Всего:"
+msgstr "Total:"
+
+#: accounting-records-copywriter.class.php:135
+#: accounting-records-copywriter.class.php:233
+#: accounting-records-copywriter.class.php:238
+#: accounting-records-copywriter.class.php:243
+#: accounting-records-copywriter.class.php:248
+msgid "символа(ов)"
+msgstr "character (s)"
+
+#: accounting-records-copywriter.class.php:138
+msgid "Итого к оплате:"
+msgstr "Total for payment:"
+
+#: accounting-records-copywriter.class.php:139
+msgid "у.е."
+msgstr "c.u."
+
+#: accounting-records-copywriter.class.php:149
+msgid "Оплачено"
+msgstr "Payment"
+
+#: accounting-records-copywriter.class.php:166
+msgid "Всего написано"
+msgstr "Total wrote"
+
+#: accounting-records-copywriter.class.php:177
+msgid "Нет записей"
+msgstr "No posts to display."
+
+#: accounting-records-copywriter.class.php:243
+msgid "другова типа"
+msgstr "another type of"
+
+#: accounting-records-copywriter.class.php:248
+msgid "Итого"
+msgstr "Total"
+
+#: accounting-records-copywriter.class.php:253
+msgid "Написано на данный момент"
+msgstr "Written at the moment"
+
+#: accounting-records-copywriter.class.php:254
+msgid "У вас нет написанных статей"
+msgstr "You do not have written articles"
+
+#: accounting-records-copywriter.class.php:262
+msgid "Заказ выплаты денег"
+msgstr "Order the payment of money"
+
+#: accounting-records-copywriter.class.php:265
+msgid "Заказать выплату"
+msgstr "File for payment"
+
+#: accounting-records-copywriter.class.php:269
+msgid "Внимание"
+msgstr "Warning"
+
+#: accounting-records-copywriter.class.php:270
+msgid ""
+"После подачи заявки, вы не сможете вносить какие либо изменения в данные "
+"записи."
+msgstr ""
+"After filing, you will not be able to make any changes in the data record."
+
+#: accounting-records-copywriter.class.php:277
+msgid "Продолжить"
+msgstr "Continue"
+
+#: accounting-records-copywriter.class.php:305
+msgid "У вас не достаточно прав для совершении данного действия"
+msgstr "You don't have sufficient rights for committing this action"
+
+#: accounting-records-copywriter.class.php:312
+msgid "Не удалось получить данные!"
+msgstr "Failed to get data!"
+
+#: accounting-records-copywriter.class.php:321
+msgid "Малое количество символов!"
+msgstr "A small number of characters!"
+
+#: accounting-records-copywriter.class.php:331
+msgid "Не удалось изменить записи, сообщите об этом администратору!"
+msgstr "Failed to modify entries, notify the administrator!"
+
+#: accounting-records-copywriter.class.php:345
+msgid "Вам поступила заявка на выплату"
+msgstr "You received an application for the payment"
+
+#: accounting-records-copywriter.class.php:346
+#, php-format
+msgid "Копирайтер %s (E-mail: %s ) запросил выплату денег, на сумму %d у.е."
+msgstr ""
+"Copywriter of %s (E-mail: %s) requested payment, on the c.u. %d amount."
+
+#: accounting-records-copywriter.class.php:352
+msgid ""
+"Ваша заявка подана и находится на стадии рассмотрения. Как только она будет "
+"рассмотрена вам придёт сообщение на ваш e-mail."
+msgstr ""
+"Your application is submitted and is at a reviewing stage. As soon as it is "
+"considered to you the message will come to your e-mail."
+
+#: accounting-records-copywriter.class.php:358
+msgid "Недостаточно данных! Ошибка №"
+msgstr "Not enough data! Bug #"
+
+#: accounting-records-copywriter.class.php:365
+msgid "Не удалось получить данные! Ошибка №"
+msgstr "Failed to get data! Bug #"
+
+#: accounting-records-copywriter.class.php:376
+msgid "Данные успешно обновлены!"
+msgstr "Data upgraded successfully."
+
+#: accounting-records-copywriter.class.php:378
+msgid "Данные не обновлены, попробуйте еще раз! Ошибка №"
+msgstr "The data is not updated, try again! Bug #"
+
+#: accounting-records-copywriter.class.php:450
+#, php-format
+msgid "%s Настройки копирайтера"
+msgstr "%s Settings for copywriter"
+
+#: accounting-records-copywriter.class.php:484
+msgid "Настройки для копирайтера"
+msgstr "Settings for copywriter"
+
+#: accounting-records-copywriter.class.php:484
+#: accounting-records-copywriter.class.php:521
+msgid "Копирайтер"
+msgstr "Copywriter"
+
+#: accounting-records-copywriter.class.php:508 pages/main_settings.php:2
+msgid "Настройки"
+msgstr "Settings"
+
+#: accounting-records-copywriter.class.php:518
+#, php-format
+msgid "Этот плагин требует версию %s Вернуться обратно"
+msgstr "This plugin requires version%s back"
+
+#: accounting-records-copywriter.class.php:546
+msgid "Поблагодарить"
+msgstr "Donate"
+
+#: classes/internals.class.php:35
+msgid "Цена услуги"
+msgstr "Service price"
+
+#: classes/internals.class.php:36
+msgid "Стоимость за 1000 символов"
+msgstr "Price for 1000 characters"
+
+#: classes/internals.class.php:44
+msgid ""
+"Количество символов, по достижении которого, копирайтер может запросить "
+"выплату денег."
+msgstr ""
+"The number of characters which, copywriter may request payment of money."
+
+#: classes/internals.class.php:50
+msgid "Учет пробелов"
+msgstr "Spaces"
+
+#: classes/internals.class.php:51
+msgid "Считать пробелы как символы"
+msgstr "Considered space as symbols"
+
+#: classes/internals.class.php:57
+msgid "Прикрепить запись к пользователю"
+msgstr "Tagging data entry to user"
+
+#: classes/internals.class.php:59
+msgid ""
+"Выберете пользователя, к которому будут прикрепляться записи и оправляться "
+"на его почту уведомление после подачи заявки на выплату от данного "
+"копирайтера."
+msgstr ""
+"You will select the user to whom records will be attached and to recover on "
+"his mail the notification message after application for payment from this "
+"copywriter."
